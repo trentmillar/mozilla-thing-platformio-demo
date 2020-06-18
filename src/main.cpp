@@ -9,6 +9,8 @@
 #define LED_BUILTIN 2
 #endif
 
+#define LARGE_JSON_BUFFERS 1
+
 #include "secrets.h"
 
 WebThingAdapter *adapter;

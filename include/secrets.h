@@ -1,2 +1,2 @@
 #define SECRET_SSID "DinnerInABowl"
-#define SECRET_PASSWORD "password123"
+#define SECRET_PASSWORD "password"
