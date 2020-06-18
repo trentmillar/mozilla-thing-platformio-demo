@@ -1,2 +1,2 @@
-#define SECRET_SSID "WiFiNetworkName"
+#define SECRET_SSID "DinnerInABowl"
 #define SECRET_PASSWORD "password123"
