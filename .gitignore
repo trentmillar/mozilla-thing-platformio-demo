@@ -1,4 +1,5 @@
-.pio
+.pio/
+.idea/
 CMakeLists*.txt
 /cmake*
 build/
